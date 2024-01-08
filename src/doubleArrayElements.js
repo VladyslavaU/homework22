@@ -3,7 +3,7 @@
 */
 
 function doubleArrayElements(numbers) {
-  return numbers.map(number => number * 2)
+  // code here
 }
 
 // Використання функції

@@ -4,7 +4,7 @@
 */
 
 function sumArray(numbers) {
-  return numbers.reduce((acc, current) => acc + current, 0)
+  // code here
 }
 
 // Використання функції

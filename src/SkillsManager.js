@@ -17,21 +17,7 @@
 */
 
 class SkillsManager {
-  constructor() {
-    this.skills = []
-  }
-
-  addSkill(skill) {
-    if (typeof skill === 'string' && skill.length >= 2) {
-      this.skills.push(skill)
-      return skill
-    }
-    return null
-  }
-
-  getAllSkills() {
-    return this.skills
-  }
+  // code here
 }
 
 // const skillsManager = new SkillsManager()
