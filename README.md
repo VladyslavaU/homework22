@@ -14,9 +14,12 @@
 
 ## 2. Виконуємо задачі для .js файлів
 
-[sumArray.js](src%2FsumArray.js),
-[doubleArrayElements.js](src%2FdoubleArrayElements.js),
-[SkillsManager.js](src%2FSkillsManager.js)
+Обов'язковим завданням є [SkillsManager.js](src%2FSkillsManager.js)
+
+Додатковим завданням є [sumArray.js](src%2FsumArray.js),
+[doubleArrayElements.js](src%2FdoubleArrayElements.js).
+Якщо не бажаєте виконувати додаткове завдання, просто видаліть файли `doubleArrayElements.test.js` та `sumArray.test.js`
+або замініть в їх назвах *.test* на *.tst*).
 
 ## 3. Запускаємо тести
 
