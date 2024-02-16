@@ -1,4 +1,4 @@
-const doubleArrayElements = require('./doubleArrayElements.js')
+import { doubleArrayElements } from '../main'
 
 describe('doubleArrayElements', () => {
   test('doubling elements of an array of numbers', () => {

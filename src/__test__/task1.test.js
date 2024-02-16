@@ -1,4 +1,4 @@
-const sumArray = require('./sumArray.js')
+import { sumArray } from '../main'
 
 describe('sumArray', () => {
   test('sum of elements in an array of numbers', () => {
