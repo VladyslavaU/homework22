@@ -1,4 +1,4 @@
-const SkillsManager = require('./SkillsManager.js')
+import { SkillsManager } from '../main'
 
 describe('SkillsManager', () => {
   let skillsManager
